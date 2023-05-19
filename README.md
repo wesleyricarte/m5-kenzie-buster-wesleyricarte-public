@@ -1,4 +1,4 @@
-# M5 - Kenzie Buster
+# M5 - Kenzie Buster - Wesley Ricarte
 
 ## Instalação dos pacotes de teste
 
